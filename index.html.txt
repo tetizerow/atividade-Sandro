@@ -1,9 +1,11 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
-    <title>atividade sandro</title>
+    <meta charset="UTF-8">
+    <title>Atividade Sandro</title>
 </head>
 <body>
-    <h1>Funcionou ? </h1>
+    <h1>Funcionou? </h1>
+    <p>Projeto básico em HTML.</p>
 </body>
 </html>
